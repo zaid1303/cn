@@ -1,3 +1,4 @@
+// hi from java
 import java.util.Scanner;
 class lab1{  
     // factorial
